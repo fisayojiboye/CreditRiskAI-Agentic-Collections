@@ -12,8 +12,7 @@ An intelligent, ethical, and production-ready **Agentic AI** that helps financia
 
 ## 🚀 Live Demo
 **(Deployed on Streamlit Cloud)**  
-→ [View Live App](https://your-app-name.streamlit.app)   *(Link will appear after deployment)*
-
+→ [View Live App](https://creditriskai-agentic-collections-5pk8m39bclwsf679cuywrg.streamlit.app/) 
 ---
 
 ## ✨ Key Features
@@ -46,7 +45,7 @@ This project started as the **Tata iQ "GenAI Powered Data Analytics" Job Simulat
 
 ```
 CreditRiskAI-Agentic-Collections/
-├── app.py                      # Main Streamlit application
+├── app.py                      
 ├── requirements.txt
 ├── README.md
 ├── .streamlit/config.toml
